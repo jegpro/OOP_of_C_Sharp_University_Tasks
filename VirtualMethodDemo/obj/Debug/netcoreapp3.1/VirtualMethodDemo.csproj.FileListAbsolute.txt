@@ -1,0 +1,13 @@
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\bin\Debug\netcoreapp3.1\VirtualMethodDemo.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\bin\Debug\netcoreapp3.1\VirtualMethodDemo.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\bin\Debug\netcoreapp3.1\VirtualMethodDemo.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\bin\Debug\netcoreapp3.1\VirtualMethodDemo.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\bin\Debug\netcoreapp3.1\VirtualMethodDemo.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\bin\Debug\netcoreapp3.1\VirtualMethodDemo.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\VirtualMethodDemo\obj\Debug\netcoreapp3.1\VirtualMethodDemo.genruntimeconfig.cache

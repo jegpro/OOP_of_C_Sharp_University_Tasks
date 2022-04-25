@@ -1,0 +1,10 @@
+C:\Users\Max\source\repos\TravelAgency\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Max\source\repos\TravelAgency\TestProject\bin\Debug\TestProject.exe
+C:\Users\Max\source\repos\TravelAgency\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Max\source\repos\TravelAgency\TestProject\bin\Debug\BL.dll
+C:\Users\Max\source\repos\TravelAgency\TestProject\bin\Debug\BL.pdb
+C:\Users\Max\source\repos\TravelAgency\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\TravelAgency\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\TravelAgency\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Max\source\repos\TravelAgency\TestProject\obj\Debug\TestProject.exe
+C:\Users\Max\source\repos\TravelAgency\TestProject\obj\Debug\TestProject.pdb

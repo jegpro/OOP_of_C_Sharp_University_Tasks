@@ -1,0 +1,6 @@
+C:\Users\Max\source\repos\TravelAgency\BL\bin\Debug\BL.dll
+C:\Users\Max\source\repos\TravelAgency\BL\bin\Debug\BL.pdb
+C:\Users\Max\source\repos\TravelAgency\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\TravelAgency\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\TravelAgency\BL\obj\Debug\BL.dll
+C:\Users\Max\source\repos\TravelAgency\BL\obj\Debug\BL.pdb

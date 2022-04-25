@@ -1,0 +1,13 @@
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\bin\Debug\netcoreapp3.1\Extra Task.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\bin\Debug\netcoreapp3.1\Extra Task.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\bin\Debug\netcoreapp3.1\Extra Task.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\bin\Debug\netcoreapp3.1\Extra Task.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\bin\Debug\netcoreapp3.1\Extra Task.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\bin\Debug\netcoreapp3.1\Extra Task.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1(task)\Extra Task\obj\Debug\netcoreapp3.1\Extra Task.genruntimeconfig.cache

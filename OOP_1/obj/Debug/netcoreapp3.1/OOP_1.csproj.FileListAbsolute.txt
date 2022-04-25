@@ -1,0 +1,13 @@
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\bin\Debug\netcoreapp3.1\OOP_1.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\bin\Debug\netcoreapp3.1\OOP_1.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\bin\Debug\netcoreapp3.1\OOP_1.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\bin\Debug\netcoreapp3.1\OOP_1.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\bin\Debug\netcoreapp3.1\OOP_1.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\bin\Debug\netcoreapp3.1\OOP_1.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\OOP_1\obj\Debug\netcoreapp3.1\OOP_1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\bin\Debug\netcoreapp3.1\Static_Test.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\bin\Debug\netcoreapp3.1\Static_Test.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\bin\Debug\netcoreapp3.1\Static_Test.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\bin\Debug\netcoreapp3.1\Static_Test.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\bin\Debug\netcoreapp3.1\Static_Test.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\bin\Debug\netcoreapp3.1\Static_Test.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\OOP\Static_Test\obj\Debug\netcoreapp3.1\Static_Test.genruntimeconfig.cache
